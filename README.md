@@ -42,8 +42,4 @@ Every expert was once a beginner. I'm learning, practising, making mistakes and 
 This is just the beginning of my journey!
 
 Thanks for visiting my repository. 😊
-## 🌱 My Philosophy
 
-Every expert was once a beginner. I'm learning, practising and improving one step at a time.
-
-Thanks for visiting my repository!
